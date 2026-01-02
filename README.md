@@ -67,9 +67,9 @@ Detected objects will be highlighted with bounding boxes and labels in real-time
 
 - Ultralytics YOLOv8
 
--OpenCV
+- OpenCV
 
--Numpy
+- Numpy
 
 ---
 
