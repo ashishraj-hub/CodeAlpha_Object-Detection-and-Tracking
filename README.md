@@ -20,12 +20,12 @@ This project demonstrates **real-time object detection and tracking** using the 
    ```bash
    git clone https://github.com/ashishraj-hub/CodeAlpha_Object-Detection-and-Tracking.git
    cd CodeAlpha_Object-Detection-and-Tracking
-  '''
+  
 
 2. Install dependencies:
     ```bash
    pip install -r requirements.txt
-  '''
+  
   
 3. Ensure you have Python 3.8+ and a working GPU (optional but recommended).
 
