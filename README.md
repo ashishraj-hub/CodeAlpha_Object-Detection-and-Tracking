@@ -78,6 +78,12 @@ Detected objects will be highlighted with bounding boxes and labels in real-time
 
 ---
 
+## 🙌 Acknowledgements
+- CodeAlpha for project inspiration.
+- Python community for libraries and resources.
+
+---
+
 ## 🤝 Contributing
 Contributions are welcome!
 
