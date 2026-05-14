@@ -32,13 +32,13 @@ This project demonstrates **real-time object detection and tracking** using the 
 ---
 
 ## 📂 Project Structure
-
+```
 CodeAlpha_Object-Detection-and-Tracking/
 │── Object_Detection.py   # Main script for detection & tracking
 │── yolov8n.pt            # Pretrained YOLOv8 model weights
 │── README.md             # Project documentation
 │── LICENSE               # License file
-
+```
 ---
 
 ## ▶️ Usage
@@ -57,7 +57,8 @@ You can modify the script to:
 ---
 
 ## 📸 Example Output
-Detected objects will be highlighted with bounding boxes and labels in real-time.
+
+- Detected objects will be highlighted with bounding boxes and labels in real-time.
 
 ---
 
@@ -74,6 +75,7 @@ Detected objects will be highlighted with bounding boxes and labels in real-time
 ---
 
 ## 📜 License
+
 - This project is licensed under the MIT License – see the LICENSE file for details.
 
 ---
@@ -100,8 +102,26 @@ Contributions are welcome!
 ## 👨‍💻 Author
 **Ashish Raj**
 
-Passionate about AI, ML, and computer vision.
+- Passionate about AI, ML, and computer vision.
 
-📌 GitHub Profile:- https://github.com/ashishraj-hub
+---
 
-📌Linkedin Profile:- https://www.linkedin.com/in/ashish-raj-ashishraj/
+## 🤝 Connect With Me
+
+If you found this project useful, interesting, or inspiring — let's connect!
+
+| Platform | Link |
+|----|----|
+| 💼 LinkedIn | [Ashish Raj](https://www.linkedin.com/in/ashish-raj-ashishraj/) |
+| 🐙 GitHub | [Ashish Raj](https://github.com/ashishraj-hub)  |
+
+---
+
+## ⭐ Support This Project
+
+If this README or project helped you:
+- **Star** ⭐ this repository
+- **Fork** 🍴 it and build your own version
+- **Share** it with someone who is learning Data Science or AI/ML
+
+---
